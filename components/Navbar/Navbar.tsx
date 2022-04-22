@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="nav">
       <div className="logo-wrap">
-        <Image src="/../public/images/airbnb-logo.png" width="130px" height="40px" className="logo" alt="airbnb company logo"/>
+        <Image src="/../public/airbnb-logo.png" width="130px" height="40px" className="logo" alt="airbnb company logo"/>
       </div>
     </nav>
   );
